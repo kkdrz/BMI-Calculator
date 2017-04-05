@@ -1,0 +1,23 @@
+<resources>
+
+    //MainActivity
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="layout_padding">10dp</dimen>
+    <dimen name="spinner_margin_bottom">4dp</dimen>
+    <dimen name="edittext_margin">4dp</dimen>
+    <dimen name="BMI_opinion_marginTop">14dp</dimen>
+    <dimen name="unit_marginStartEnd">4dp</dimen>
+    <dimen name="button_margin">5dp</dimen>
+    <dimen name="label_minWidth">45dp</dimen>
+    <dimen name="BMI_textSize">25sp</dimen>
+    <dimen name="BMI_number_textSize">30sp</dimen>
+    <dimen name="BMI_opinion_textSize">25sp</dimen>
+
+
+    //AuthorActivity
+    <dimen name="image_max_height">300dp</dimen>
+    <dimen name="author_name_textSize">50sp</dimen>
+    <dimen name="dancing_gif_max_height">150dp</dimen>
+
+</resources>

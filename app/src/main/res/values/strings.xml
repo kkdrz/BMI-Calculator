@@ -1,0 +1,53 @@
+<resources>
+
+    //LABELS
+    <string name="app_name">BMI Calculator</string>
+    <string name="mass">Mass:</string>
+    <string name="height">Height:</string>
+    <string name="bmi">BMI:</string>
+    <string name="kg_m">Mass:</string>
+    <string name="underweight">Underweight</string>
+    <string name="overweight">Overweight</string>
+    <string name="correctweight">Correct weight</string>
+    <string name="count">COUNT</string>
+    <string name="result_placeholder">0</string>
+    <string name="BMI_opinion">The best weight for you is approximately: </string>
+
+    //WRONG DATA
+    <string name="wrong_mass">Wrong mass</string>
+    <string name="wrong_height">Wrong height</string>
+
+    //UNITS
+    <string name="kg_cm">Kg/Cm</string>
+    <string name="lbs_in">Lbs/In</string>
+    <string name="kg">[Kg]</string>
+    <string name="cm">[Cm]</string>
+    <string name="lbs">[Lbs]</string>
+    <string name="in">[In]</string>
+
+    //RANGES
+    <string name="mass_kg_range">10 – 250</string>
+    <string name="height_cm_range">50 – 250</string>
+    <string name="mass_lbs_range">22 – 550</string>
+    <string name="height_in_range">20 – 100</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+
+
+    //TOASTS
+    <string name="input_saved">Input saved</string>
+    <string name="wrong_input">Wrong input</string>
+    <string name="my_bmi_equals">Moje BMI jest równe</string>
+    <string name="i_m_thin">Sama skóra i kości</string>
+    <string name="i_m_normal">Trzymam formę</string>
+    <string name="i_m_fat">Jestem tłuściochem. Wyskoczymy na siłownię?</string>
+    <string name="about">About</string>
+    <string name="author_name">Konrad Drozd</string>
+
+
+    //UNIT SPINNER
+    <string-array name="spinner_mode">
+        <item>@string/kg_cm</item>
+        <item>@string/lbs_in</item>
+    </string-array>
+</resources>
